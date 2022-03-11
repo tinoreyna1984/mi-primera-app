@@ -9,7 +9,7 @@ import Saludar3 from './components/Saludar3';
 import Saludar4 from './components/Saludar4';
 import Saludar5 from './components/Saludar5';
 
-/**
+/** 
  * Programa de prueba para aprender React JS
  */
 
